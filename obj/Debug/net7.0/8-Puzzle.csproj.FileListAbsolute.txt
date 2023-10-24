@@ -1,0 +1,15 @@
+/home/eric/projects/8-Puzzle/bin/Debug/net7.0/8-Puzzle
+/home/eric/projects/8-Puzzle/bin/Debug/net7.0/8-Puzzle.deps.json
+/home/eric/projects/8-Puzzle/bin/Debug/net7.0/8-Puzzle.runtimeconfig.json
+/home/eric/projects/8-Puzzle/bin/Debug/net7.0/8-Puzzle.dll
+/home/eric/projects/8-Puzzle/bin/Debug/net7.0/8-Puzzle.pdb
+/home/eric/projects/8-Puzzle/obj/Debug/net7.0/8-Puzzle.csproj.AssemblyReference.cache
+/home/eric/projects/8-Puzzle/obj/Debug/net7.0/8-Puzzle.GeneratedMSBuildEditorConfig.editorconfig
+/home/eric/projects/8-Puzzle/obj/Debug/net7.0/8-Puzzle.AssemblyInfoInputs.cache
+/home/eric/projects/8-Puzzle/obj/Debug/net7.0/8-Puzzle.AssemblyInfo.cs
+/home/eric/projects/8-Puzzle/obj/Debug/net7.0/8-Puzzle.csproj.CoreCompileInputs.cache
+/home/eric/projects/8-Puzzle/obj/Debug/net7.0/8-Puzzle.dll
+/home/eric/projects/8-Puzzle/obj/Debug/net7.0/refint/8-Puzzle.dll
+/home/eric/projects/8-Puzzle/obj/Debug/net7.0/8-Puzzle.pdb
+/home/eric/projects/8-Puzzle/obj/Debug/net7.0/8-Puzzle.genruntimeconfig.cache
+/home/eric/projects/8-Puzzle/obj/Debug/net7.0/ref/8-Puzzle.dll
